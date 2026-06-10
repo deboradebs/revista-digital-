@@ -3,5 +3,5 @@ body{
     color:blueviolet
 }
 .cabecalho{
-    linear-gradient: (to right, #e63946 30%, black;)
-}
+    linear-gradient: (to right, #e63946 30%, black 30%)
+        }
