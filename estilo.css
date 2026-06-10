@@ -3,12 +3,12 @@ body{
     color:blueviolet;
 }
 .cabecalho{
-     background:linear-gradient(to right, #cb35df 30%, rgb(134, 66, 212) 30%);
+     background:linear-gradient(to right, #000000 30%, rgb(134, 66, 212) 30%);
         }
 
         .cabecalho img{
             text-align: center;
-            width: 25%;
+            width: 30%;
         }
         .cabecalho h1{
             margin-left: 50%;
