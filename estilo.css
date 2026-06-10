@@ -1,6 +1,6 @@
 body{
     background-color:rgb(202, 146, 228);
-    color:blueviolet;
+    color:rgb(0, 0, 0);
 }
 .cabecalho{
      background:linear-gradient(to right, #000000 30%, rgb(134, 66, 212) 30%);
