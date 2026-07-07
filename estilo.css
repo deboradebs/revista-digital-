@@ -7,9 +7,10 @@
 
 .conteudo01{
     display: flex;
-    padding: 50px;
+    padding: 32px;
     justify-content: center;
     align-items: center;
+    font-size: 24px;
 }
 
 .conteudo01-img{
