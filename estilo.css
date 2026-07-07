@@ -4,3 +4,12 @@
     background-repeat: no-repeat;
     height: 500px;
 }
+
+.conteudo01{
+    display: flex;
+}
+
+.conteudo01-img{
+    width: 40%;
+}
+
